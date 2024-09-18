@@ -1,1 +1,3 @@
-export const schemaTypes = []
+import celebration from './celebration'
+
+export const schemaTypes = [celebration]
