@@ -18,5 +18,18 @@ export default {
       type: 'slug',
       title: 'Slug',
     },
+    {
+      name: 'conent',
+      titile: 'Content',
+      type: 'array',
+      of: [
+        {
+          type: 'block',
+        },
+        {
+          type: 'image',
+        },
+      ],
+    },
   ],
 }
