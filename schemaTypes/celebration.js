@@ -19,7 +19,7 @@ export default {
       title: 'Slug',
     },
     {
-      name: 'conent',
+      name: 'content',
       titile: 'Content',
       type: 'array',
       of: [
